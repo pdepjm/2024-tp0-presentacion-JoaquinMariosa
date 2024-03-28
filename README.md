@@ -10,4 +10,5 @@ Buenass, mi nombre es **Joaquín Mariosa**, tengo 18 años y este es mi **segund
 - Siempre me gusto armar cubos de Rubik a una buena velocidad, llegue a ir a competiciones en su momento pero dejé de ir hace unos años
 - Tengo dos perros que son padre e hijo, Rey y Titán (por el nombre intimidan pero son dos enanos)
 
-![foto-de-chico](https://github.com/pdepjm/2024-tp0-presentacion-JoaquinMariosa/assets/134443307/72c4c9bc-2b85-4209-803e-dd5b3e73372b)
+![foto-de-chico](https://github.com/pdepjm/2024-tp0-presentacion-JoaquinMariosa/assets/134443307/fefe65c7-004b-4c58-a5d0-007f3cce3e1c)
+![titan-rey](https://github.com/pdepjm/2024-tp0-presentacion-JoaquinMariosa/assets/134443307/36727867-da21-4dae-9420-6d74e02d6532)
